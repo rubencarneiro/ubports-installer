@@ -119,7 +119,6 @@ switch (opts.os) {
           "gconf2",
           "gconf-service",
           "libnotify4",
-          "libappindicator1",
           "libxtst6",
           "libnss3",
           "android-tools-adb",
