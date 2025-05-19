@@ -69,7 +69,7 @@
     "progressive-downloader": "1.0.8",
     "promise-android-tools": "^4.0.13",
     "ps-tree": "^1.2.0",
-    "semver": "^7.6.3",
+    "semver": "^7.7.2",
     "sudo-prompt": "^9.2.1",
     "svelte-markdown": "^0.4.1",
     "systeminformation": "^5.23.23",
